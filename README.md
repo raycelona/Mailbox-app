@@ -1,4 +1,6 @@
-# RouterPractice
+# Mailbox
+
+An angular mailbox, work in progress.  Soon to be integrated with a Nodejs backend.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
