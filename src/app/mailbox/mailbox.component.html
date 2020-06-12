@@ -1,0 +1,11 @@
+<app-header></app-header>
+<div class="mailbox">
+  <h2>Inbox</h2>
+  <app-mail-item 
+    *ngFor="let mail of mailObj; let i = index" 
+    [mailItem]="mail" 
+    [index]="i">
+  </app-mail-item>
+</div>
+<app-mail-preview class="preview"></app-mail-preview>
+<div *ngIf="mailObj.length === 0">There's nothing in your inbox</div>

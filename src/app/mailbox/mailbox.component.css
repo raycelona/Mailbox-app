@@ -1,0 +1,8 @@
+#sub {
+     margin-bottom: 5px;
+}
+.mailbox {
+     border-right: 1px solid #EEE;
+     float:left;
+     width:30%;
+}

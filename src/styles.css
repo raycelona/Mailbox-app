@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    color: #333;
+    font-family: tahoma, verdana, sans-serif;
+    font-size: 10pt;
+    margin: 0;
+    padding: 0;
+}
+button {
+    background-color: lightblue;
+    border-radius: 5px;
+    color: darkblue;
+    border: none;
+    padding: 5px; 
+    margin: 5px;
+}
+.container {
+    padding: 0 30px 0 30px;
+}
+h1 {
+    margin: 0;
+}

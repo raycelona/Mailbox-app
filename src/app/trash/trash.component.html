@@ -1,0 +1,13 @@
+<h2>Trash</h2>
+    <div *ngFor="let deleted of deletedItems; let i = index">
+        <b>{{deleted.sender}}</b>
+        <p>{{deleted.subject}}</p>
+        <button (click)="backToInbox(i)">Back to inbox</button>
+        <button (click)="openDialog(deletedItems[i])">Delete?</button>
+        <div *ngIf="dialog">
+            <h3>Delete {{deleted.sender}}?</h3>
+            <button (click)="permDelete(i)">Delete</button>
+        </div>
+    </div>
+    <div *ngIf="deletedItems.length === 0">Trash is empty!</div>
+

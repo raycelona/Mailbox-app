@@ -1,0 +1,59 @@
+
+    [
+        {
+        "sender": "Medium daily digest", 
+        "subject": "Some stuff...", 
+        "body": "Learn some shit!!!", 
+        "date": "today", 
+        "opened": false
+    },
+    {
+        "sender": "Firebase", 
+        "subject": "Some stuff...", 
+        "body": "Learn some shit!!!", 
+        "date": "today", 
+        "opened": false
+    },
+    {
+        "sender": "Macys", 
+        "subject": "Some stuff...", 
+        "body": "Learn some shit!!!", 
+        "date": "today", 
+        "opened": false
+    },
+    {
+        "sender": "Angular University", 
+        "subject": "Some stuff...", 
+        "body": "Learn some shit!!!", 
+        "date": "today", 
+        "opened": false
+    },
+    {
+        "sender": "Indeed dot com", 
+        "subject": "Some stuff...", 
+        "body": "Learn some shit!!!", 
+        "date": "today", 
+        "opened": false
+    },
+    {
+        "sender": "Mozilla", 
+        "subject": "Some stuff...", 
+        "body": "Learn some shit!!!", 
+        "date": "today", 
+        "opened": false
+    },
+    {
+        "sender": "Amazon", 
+        "subject": "Some stuff...", 
+        "body": "Learn some shit!!!", 
+        "date": "today", 
+        "opened": false
+    },
+    {
+        "sender": "Lowes", 
+        "subject": "Some stuff...", 
+        "body": "Learn some shit!!!", 
+        "date": "today", 
+        "opened": false
+    }
+]

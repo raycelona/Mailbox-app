@@ -1,0 +1,22 @@
+.item {
+    border-bottom: 1px solid #EEE;
+    float:left;
+    width: 30%;
+    clear: left;
+}
+.list:hover {
+    background-color:#EEE;
+    cursor: pointer;
+}
+.new {
+    background-color: #F0F0F0;
+}
+.buttons {
+     /* float: right; */
+    /*width: 40%; */
+}
+.subjectLine {
+    /* float: left;
+    width: 40%; */
+    /* clear:both; */
+}

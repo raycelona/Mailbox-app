@@ -1,0 +1,9 @@
+
+.header {
+    background-color: #EEE;
+    padding: 1em;
+}
+.header a {
+    color: blue;
+    text-decoration: none;
+}

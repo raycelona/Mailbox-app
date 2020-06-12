@@ -1,0 +1,10 @@
+<div class="list" (click)="showPreview()">
+  <div *ngIf="mailItem.opened === true" class="new">New!</div>
+  <div class="subjectLine">
+    <p id="sub"><b>{{mailItem.sender}}</b></p>
+  </div>
+  <div class="buttons">
+    <button (click)="getMailBody(index)">Read</button>
+    <button (click)="delete(index)">Delete</button>
+  </div>
+</div>
