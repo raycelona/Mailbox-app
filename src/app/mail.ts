@@ -43,7 +43,7 @@ export const  mail = [
     {
         'sender': 'Mozilla',
         'subject': 'blahblah Mozilla...', 
-        'body': 'Mozilla doin some crazy web stuf!!', 
+        'body': 'Mozilla doin some crazy web stuff!!', 
         'date': 'yesterday', 
         'opened': true,
         'deleted': ''
