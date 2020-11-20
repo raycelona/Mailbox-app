@@ -3,7 +3,7 @@ export const  mail = [
     {
         'sender': 'Medium daily digest', 
         'subject': 'Some stuff...', 
-        'body': 'Learn some shit!!!', 
+        'body': 'Learn some stuff!!!', 
         'date': 'today', 
         'opened': false,
         'deleted': ''
@@ -11,7 +11,7 @@ export const  mail = [
     {
         'sender': 'Firebase', 
         'subject': 'Server stuff', 
-        'body': 'Serve some shit!!!', 
+        'body': 'Serve some stuff!!!', 
         'date': 'today', 
         'opened': false,
         'deleted': ''
@@ -19,7 +19,7 @@ export const  mail = [
     {
         'sender': 'Angular University', 
         'subject': 'NG stuff.', 
-        'body': 'SPA some shit!!!', 
+        'body': 'SPA some stuff!!!', 
         'date': 'today', 
         'opened': false,
         'deleted': ''
@@ -27,7 +27,7 @@ export const  mail = [
     {
         'sender': 'Macys offer', 
         'subject': 'blahblah macys...', 
-        'body': 'Buy some shit!!!', 
+        'body': 'Buy some stuff!!!', 
         'date': 'today', 
         'opened': true,
         'deleted': ''
@@ -35,7 +35,7 @@ export const  mail = [
     {
         'sender': 'Indeed', 
         'subject': 'blahblah indeed...', 
-        'body': 'Work some shit!!!', 
+        'body': 'Work some stuff!!!', 
         'date': 'today', 
         'opened': true,
         'deleted': ''
@@ -43,7 +43,7 @@ export const  mail = [
     {
         'sender': 'Mozilla',
         'subject': 'blahblah Mozilla...', 
-        'body': 'Mozilla doin some crazy web shit!!', 
+        'body': 'Mozilla doin some crazy web stuf!!', 
         'date': 'yesterday', 
         'opened': true,
         'deleted': ''
@@ -51,7 +51,7 @@ export const  mail = [
     {
         'sender': 'Amazon', 
         'subject': 'blahblah amazon...', 
-        'body': 'Besos is rich as shit!!', 
+        'body': 'Besos is rich!!', 
         'date': 'yesterday', 
         'opened': true,
         'deleted': ''
@@ -59,7 +59,7 @@ export const  mail = [
     {
         'sender': 'Lowes', 
         'subject': 'blahblah lowes...', 
-        'body': 'Build some shit!!!', 
+        'body': 'Build some stuff!!!', 
         'date': 'two days ago', 
         'opened': true,
         'deleted': ''
